@@ -1,0 +1,17 @@
+body{ 
+	height: 250px;
+	width: 150px;
+	border: purple 3px solid;
+	text-align: left;
+	padding:  10px 25px 100px, 200px;
+	
+
+} 
+h1{
+	font-size: 13px
+
+}
+p{
+	font-size: 14px
+}
+}
